@@ -15,7 +15,7 @@
 |[Assassin's Creed : II :](#anchortext2)|2009|Renaissance italienne (XVe siècle)|
 |[Assassin's Creed : BrotherHood](#anchortext3)|2010|Renaissance italienne (XVe siècle)|
 |[Assassin's Creed : Revelations :](#anchortext4)|2011|Renaissance italienne (XVe siècle)|
-|[Assassin's Creed III : Black Flag :](#anchortext5)|Révolution américaine (XVIIIe siècle)|
+|[Assassin's Creed III : Black Flag :](#anchortext5)|2011|Révolution américaine (XVIIIe siècle)|
 |[Assassin's Creed IV :](#anchortext6)|2012|Âge d'or de la piraterie (XVIIIe siècle)|
 |[Assassin's Creed Rogue :](#anchortext7)|2013|Guerre de Sept Ans (XVIIIe siècle)|
 |[Assassin's Creed Unity :](#anchortext8)|2014|Révolution française (XVIIIe siècle)|
