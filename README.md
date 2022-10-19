@@ -1,4 +1,6 @@
 # Assassin's Creed
+<img align="right" src="https://github.com/BacharBilal/AC-BUT-AIX/blob/main/1200px-Assassin's_Creed_Logo.png" width="400"/>
+
 [Lien vers notre wiki](https://ac-iut.fandom.com/fr/wiki/Wiki_AC_IUT#Assassin%27s_Creed_%3A_Revelations_%3A)
 
 
@@ -11,15 +13,17 @@
 
 
 #### Assassin's Creed :
-
 L'histoire est centrée sur Desmond Miles qui revit les actions de son ancêtre à l'aide de l'« Animus » une machine qui le synchronise avec les souvenir de son ou ses ancêtre(s). Son aïeul Altaïr Ibn-La'Ahad est un assassin d'élite agissant en Terre Sainte de l'époque pendant la Troisième croisade. Tombé en disgrâce, Altaïr doit exécuter plusieurs missions pour regagner son rang dans sa communauté. Le joueur contrôle librement le héros dans quatre villes (Damas, Jérusalem, Acre et Masyaf) à la recherche de ses cibles. La société secrète des Assassins présentée dans le jeu est librement inspirée des maigres traces historiques laissées par les Nizârites (ou Hashaschînes), ainsi que par des récits comme le roman ''Alamut''.
 
-#### Assassin's Creed II : 
 
+
+#### Assassin's Creed II : 
 L'histoire de cette opus poursuit celle du premier cependant cette fois ci Desmond se synchronise avec les souvenirs de son ancêtre Ezio Auditore devenue assassin suite a un complot qu'il a subit de la part des templiers tuant la quasi totalité de sa famille afin d'obtenir des artefacts secret et précieux et qui sont extrêmement dangereux comme la pomme et le bâton d'Eden. Ezio y fera la rencontre d'un célèbre artiste Léonard De Vinci, un ami de la famille. Il aidera Ezio dans son ascendance en tant que assassin en fabriquant ou en modifiant ses armes telles que la lame secrète des assassin et il donnera des conseils aviser a Ezio pendant son parcours.
 
-#### Assassin's Creed : BrotherHood : 
 
+
+
+#### Assassin's Creed : BrotherHood : 
 L'histoire de ce troisième jeux est la suite directe de *Assassin's Creed II*, on continue avec Desmond Miles incarnant de nouveau son ancêtre Ezio Auditore, Ezio dans cet opus a eu le temps de devenir un grand maitre assassin. La grande mission de Ezio va être de se battre contre l'armée de César et César lui même, cependant il va refuser de mourir de la lame secrète d'un assassin et va donc se précipite dans le vide. Desmond Miles émerge de l'Animus avec en tête des indications pour retrouver la pomme d'Eden grâce au indications de César juste avant de mourir.
 
 
