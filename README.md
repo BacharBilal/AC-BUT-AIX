@@ -75,4 +75,4 @@ Dans ce jeux le joueurs a le choix de jouer Kassandra ou Alexios, le jeu reste l
 #### <a name="anchortext12" />Assassin's Creed Valhalla
 
 #### <a name="anchortext13" />Assassin's Creed Mirage
-Pour ce treizieme et actuel dernier jeu qui sortira en 2023, l'histoire se deroule a Bagdad, nous jouons Basim un jeune orphelin vivant par ses propres moyen, les assassin l'ont reperer et souhaite le recruter. Basim n'est pas contre l'idee, il admire meme les assassin et leurs credo. Ce jeu sera une pure eloge envers le tout premier jeux, les scene d'animations du trailer et quelques scenes du jeu seront exactement les meme que celles dans le premier.
+Pour ce treizième et actuel dernier jeu qui sortira en 2023, l'histoire se déroule a Bagdad, nous jouons Basim un jeune orphelin vivant par ses propres moyen, les assassin l'ont repérer et souhaite le recruter. Basim n'est pas contre l'idée, il admire même les assassin et leurs credo. Ce jeu sera une pure éloge envers le tout premier jeux, les scène d'animations du trailer et quelques scènes du jeu seront exactement les même que celles dans le premier.
