@@ -15,11 +15,11 @@
 |[Assassin's Creed : II :](#anchortext2)|2009|Renaissance italienne (XVe siècle)|
 |[Assassin's Creed : BrotherHood](#anchortext3)|2010|Renaissance italienne (XVe siècle)|
 |[Assassin's Creed : Revelations :](#anchortext4)|2011|Renaissance italienne (XVe siècle)|
-|[Assassin's Creed III : Black Flag :](#anchortext5)|2011|Révolution américaine (XVIIIe siècle)|
-|[Assassin's Creed IV :](#anchortext6)|2012|Âge d'or de la piraterie (XVIIIe siècle)|
-|[Assassin's Creed Rogue :](#anchortext7)|2013|Guerre de Sept Ans (XVIIIe siècle)|
+|[Assassin's Creed III :](#anchortext5)|2012|Révolution américaine (XVIIIe siècle)|
+|[Assassin's Creed IV : Black Flag :](#anchortext6)|2013|Âge d'or de la piraterie (XVIIIe siècle)|
+|[Assassin's Creed Rogue :](#anchortext7)|2014|Guerre de Sept Ans (XVIIIe siècle)|
 |[Assassin's Creed Unity :](#anchortext8)|2014|Révolution française (XVIIIe siècle)|
-|[Assassin's Creed Syndicate:](#anchortext9)|2014|Révolution industrielle (XIXe siècle)|
+|[Assassin's Creed Syndicate:](#anchortext9)|2015|Révolution industrielle (XIXe siècle)|
 |[Assassin's Creed :](#anchortext10)|2015|Egypte antique (Ier siècle av. J.-C.)|
 |[Assassin's Creed :](#anchortext11)|2017|Grèce antique (IVe siècle av. J.-C.)|
 |[Assassin's Creed :](#anchortext13)|2020|Âge des Vikings (IXe siècle)|
